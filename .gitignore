@@ -1,0 +1,13 @@
+plugins/
+node_modules/
+package-lock.json
+Wallets/
+.dockerignore
+docker-compose.yml
+Dockerfile
+src/Server/routes/
+src/Server/repositories/notify
+src/Server/models/Notifications.ts
+src/Server/database/notify.ts
+src/Server/controllers/notifications/
+src/Live_drone

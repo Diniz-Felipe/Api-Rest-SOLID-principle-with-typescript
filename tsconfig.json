@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "lib": [
+            "ES6"
+        ],
+        "module": "CommonJS",
+        "resolveJsonModule": true,
+        "allowJs": false,
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "noImplicitAny": true
+    }
+}
